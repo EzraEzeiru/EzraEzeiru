@@ -1,6 +1,6 @@
 ## Hi, I’m @EzraEzeiru 👋 
 - I’m a Software Engineer with specialization in Python. 
-- I am currently learning Java and it's frameworks.
+- I am currently learning Javascript and it's frameworks.
 - I’m looking to collaborate on software development projects that would introduce me to several new concepts in the field of software engineering and facilitate my growth as a software engineer. 
 - 📫 :(ezeiru.ezra@gmail.com) 
 - Linkendin: (https://www.linkedin.com/in/ezeiru-ezra-702453201)
